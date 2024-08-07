@@ -30,14 +30,9 @@ A simple React-based web application that allows users to sign up, log in, and t
     ```bash
     npm start
     ```
-    Navigate to http://localhost:3000.
-   
-
-
-4. **Open your browser:**
-    Navigate to `http://localhost:3000` to get to a Log In page.
+   Navigate to http://localhost:3000.
    Log in using **user@example.com** and password or sign up using the signup form.
-    Access the dashboard to add and view meetings.
+   One logged in, access the dashboard to add and view meetings.
 
 ## Project Structure
 
