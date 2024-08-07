@@ -30,9 +30,14 @@ A simple React-based web application that allows users to sign up, log in, and t
     ```bash
     npm start
     ```
+    Navigate to http://localhost:3000.
+   
+
 
 4. **Open your browser:**
-    Navigate to `http://localhost:3000` to view the application.
+    Navigate to `http://localhost:3000` to get to a Log In page.
+   Log in using **user@example.com** and password or sign up using the signup form.
+    Access the dashboard to add and view meetings.
 
 ## Project Structure
 
@@ -50,6 +55,3 @@ A simple React-based web application that allows users to sign up, log in, and t
 - **MeetingList.js**: Displays a list of meetings.
 - **PrivateRoute.js**: A wrapper for protected routes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
